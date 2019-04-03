@@ -1,0 +1,21 @@
+{
+    "name": "brawl-stars-hack/brawl-stars-hack-mod-apk-get-unlimited-gold",
+    "description": "Brawl Stars Hack Mod APK Get Unlimited Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Brawl Stars",
+            "homepage": "http://cheat4games.com/generator/Brawl-Stars/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
